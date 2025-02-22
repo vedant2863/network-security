@@ -1,9 +1,0 @@
-python-dotenv
-pandas
-numpy
-certifi
-setuptools
-pymongo
-pymongo[srv]
-
--e .
